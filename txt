@@ -1,0 +1,22 @@
+ <div class="container">
+            <header>
+                <!-- header content -->
+                <div>
+                    <!-- logo -->
+                </div>
+                <div>
+                    <!-- search bar -->
+                </div>
+            </header>
+            <div>
+                <!-- links -->
+            </div>
+            <div class="content">
+                <!-- content content -->
+                <div class="leftSide">
+                    <!-- leftSide content -->
+                </div>
+                <div class="rightSide">
+                    <!-- rightSide content -->
+                </div>
+            </div>
